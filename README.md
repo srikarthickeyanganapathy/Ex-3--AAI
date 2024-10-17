@@ -1,5 +1,5 @@
-<H3>NAME: Aldrin Lijo J E </H3>
-<H3>REG NO:212222240007 </H3>
+<H3>NAME: SRI KARTHICKEYAN GANAPATHY </H3>
+<H3>REG NO:212222240102 </H3>
 <H3>EX. NO.3 </H3>
 <H3>DATE:30-09-24</H3>
 <H1 ALIGN =CENTER> Implementation of Approximate Inference in Bayesian Networks
